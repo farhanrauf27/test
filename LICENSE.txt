@@ -1,0 +1,2 @@
+# Copyright (c) [Year] [Your Name]
+# This software is licensed under the [License Name] License.
